@@ -1,0 +1,3 @@
+Montserrat (c) The Montserrat Project Authors e Comfortaa (c) The Comfortaa Project Authors.
+Ambas licenciadas sob a SIL Open Font License 1.1: https://openfontlicense.org
+Arquivos obtidos do Google Fonts (subconjunto latin / subconjunto com o texto "usi-nel").

@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# TROCAR DOMINIO quando o definitivo existir
+Sitemap: https://www.usinel.com.br/sitemap.xml
